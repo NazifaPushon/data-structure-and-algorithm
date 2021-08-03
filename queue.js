@@ -23,7 +23,7 @@ class Queue{
         return this.collection[0];
     }
     size(){
-        return this.collection.length();
+        return this.collection.length;
     }
     isEmpty(){
        return (this.collection.length === 0);
