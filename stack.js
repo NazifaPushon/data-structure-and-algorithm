@@ -1,4 +1,5 @@
 // stacks by array
+// last in first out
 let letter = []; // this is our stack 
 let word = 'mom' // main word 
 let reversedWord = "" // revarsed word
